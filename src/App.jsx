@@ -9,7 +9,7 @@ const App = () => {
   const product = {
     name: "iPhone 14",
     price: "$ 1200",
-    Description: "A premium smartphone with advance features",
+    Description: "A premium smartphone with advance features ",
   };
   const showProduct = () => {
     setVisibility(!visibility);
